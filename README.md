@@ -1,0 +1,2 @@
+# shapeai_python_machine_learn
+SHAPEAI PYTHON AND MACHINE LEARNING BOOTCAMP
